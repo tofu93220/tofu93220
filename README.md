@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="https://"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://"><img alt="CSharp" src="https://img.shields.io/badge/CSharp-%23150458.svg?logo=csharp&logoColor=white"></a>
+    <a href="https://"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23150458.svg?logo=csharp&logoColor=white"></a>
 
 ## 🧰 Frameworks and libraries
 
