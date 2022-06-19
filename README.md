@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 👨 [Qui suis-je ?](https://tofu93220.github.io/borismassoda.me/#intro)
-+ 🏢 [Mon travail](https://tofu93220.github.io/borismassoda.me/#work)
-+ 💙 [Mes projets](https://tofu93220.github.io/borismassoda.me/#about)
-
